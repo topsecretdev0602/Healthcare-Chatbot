@@ -279,5 +279,17 @@ a = ChatInterface(root)
 root.geometry(window_size)
 root.title("MedBot")
 root.iconbitmap('MedBot.jpg')
-root.mainloop()
+root.mainloop() 
+
+
+
+
+
+
+
+
+
+
+
+
 
