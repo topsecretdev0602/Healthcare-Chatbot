@@ -36,6 +36,6 @@ MedBot : medicines you can consume : acetaminophen ,ibuprofen,aspirin,Crocin Col
 You : consultation
 MedBot : You can contact various doctors here for any kind of consultation: 1. https://www.1mg.com/online-doctor-consultation, 2. https://www.tatahealth.com/online-doctor-consultation/general-physician, 3. https://www.doconline.com/, or you can pay a visit to your local area doctor or family doctor.
 You : bye
-MedBot : Bye! Hope to see you again.
+MedBot : Bye! Hope to see you again. Thank you!
 
 chat ended on: July 11, 2021 at 12:49 AM with User
